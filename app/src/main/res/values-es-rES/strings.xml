@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera aplicación de Dio</string>
+    <string name="title">¡Bienvenidos a la aplicación de Digital Innovation One!</string>
+    <string name="image">Imagen</string>
+</resources>
