@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_textSize">24sp</dimen>
+    <dimen name="layout_padding">24dp</dimen>
+    <dimen name="margin_vertical">180dp</dimen>
+</resources>

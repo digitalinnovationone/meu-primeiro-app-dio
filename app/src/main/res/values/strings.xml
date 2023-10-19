@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="title">Sejam bem-vindos ao aplicativo da Digital Innovation One!</string>
+    <string name="image">Imagem</string>
 </resources>
